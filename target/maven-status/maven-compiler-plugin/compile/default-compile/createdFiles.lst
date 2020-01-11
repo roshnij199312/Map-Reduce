@@ -1,0 +1,6 @@
+com\assignment\singapore\airbnb\map\reduce\RentalsPerNeighbourhood$NeighbourhoodGroupRentalCountMapper.class
+com\assignment\singapore\airbnb\map\reduce\WholeYearRental$RentalCountMapper.class
+com\assignment\singapore\airbnb\map\reduce\RentalsPerNeighbourhood$NeighbourhoodGroupRentalCountReducer.class
+com\assignment\singapore\airbnb\map\reduce\WholeYearRental.class
+com\assignment\singapore\airbnb\map\reduce\RentalsPerNeighbourhood.class
+com\assignment\singapore\airbnb\map\reduce\WholeYearRental$RentalCountReducer.class
